@@ -3,6 +3,10 @@ A powerful job finder for Reddit &amp; Upwork with texting capabilities
 
 This simple project text you by Facebook Messenger whenever there is a new interesting job on Reddit or Upwork
 
+**Example** : 
+
+![Alt text](images/example.png "Title")
+
 # Reddit:
 There's a preselected list of subreddit to look for jobs, it takes 15 newest jobs in the subreddit that contains a word in your keyword list (see : Config part)
 
@@ -11,6 +15,8 @@ The subreddits are :
 - r/remotepython
 - r/remotejs
 - r/WFH
+
+`Every time a new job is sent by messenger, the job link is added to reddit.txt file which serves as a simple database for previous sent jobs, this avoid sending the same job twice .`
 
 **Tip:** You can add more to this list in the `main.py` file
 
