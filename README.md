@@ -5,7 +5,7 @@ This simple project text you by Facebook Messenger whenever there is a new inter
 
 **Example** : 
 
-![Alt text](example.png "Title")
+![Alt text](example.PNG "Title")
 
 # Reddit:
 There's a preselected list of subreddit to look for jobs, it takes 15 newest jobs in the subreddit that contains a word in your keyword list (see : Config part)
