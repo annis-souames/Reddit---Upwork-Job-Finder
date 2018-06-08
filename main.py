@@ -5,8 +5,8 @@ import fbchat
 from chat import *
 import pdb 
 
-CLIENT_ID = "ZoSdouNDgPaP8w"
-SECRET = "nbC7ji27pJn3K8NjX-xG-tUoJoQ"
+CLIENT_ID = ""
+SECRET = ""
 
 def get_data():
 	data = json.loads(open("data.json","r").read())
